@@ -1,0 +1,23 @@
+{
+  "name": "accessible-dialog",
+  "version": "1.0.0",
+  "description": "A gov uk inspired accessible dialog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ahmad/accessible-dialog.git"
+  },
+  "keywords": [
+    "accessible",
+    "dialog"
+  ],
+  "author": "Syed Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/accessible-dialog/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/accessible-dialog#readme"
+}
